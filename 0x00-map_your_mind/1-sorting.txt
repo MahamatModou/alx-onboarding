@@ -1,0 +1,8 @@
+//This is to order 3 given
+	initialize path = 0
+	Enter list of 3 numbers
+	use while loop to check out the values of numbers
+	increment path
+		print numbers
+//
+	
