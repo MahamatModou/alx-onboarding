@@ -1,0 +1,8 @@
+//this is about to calculte running sum
+	enter current value of sum
+	enter a new input number
+		while new number is >= 0
+			sum take sum + new number
+		If new number < 1
+			return sum
+//end
