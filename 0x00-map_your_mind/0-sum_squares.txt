@@ -1,0 +1,9 @@
+//This function is to calculate sum of squares of given numbers
+
+define the variables for input numbers
+define and initalize variable sum=0
+	variable a = square of input number 1
+	variable b = square of input number 2
+		calculate sum = a + b
+
+End
